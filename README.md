@@ -1,17 +1,17 @@
 # Check lista Spelet
 
-Förarbete
-[X] Frågor/pussel (3-5 st)
-[X] Hitta resurser (Bilder m.m)
-[X] Fixa Git!
-[X] Lär Danne JAVA
+<b>Förarbete</b> <br>
+[X] Frågor/pussel (3-5 st) <br>
+[X] Hitta resurser (Bilder m.m) <br>
+[X] Fixa Git! <br>
+[X] Lär Danne JAVA <br>
 
-<b> Spelaren </b>
-[X] Kontroller
-  [X] Rörelse
-  [X] Sök funktion
-  [X] Inventory
-[X] Animationer
-  [X] Gå (fram, bak, vänster, höger)
-  [X] Stilastående
+<b> Spelaren </b> <br>
+[X] Kontroller <br>
+  [X] Rörelse <br>
+  [X] Sök funktion <br>
+  [X] Inventory <br>
+[X] Animationer <br>
+  [X] Gå (fram, bak, vänster, höger) <br>
+  [X] Stilastående <br>
   
