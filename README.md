@@ -15,3 +15,4 @@
   [X] Gå (fram, bak, vänster, höger) <br>
   [X] Stilastående <br>
   
+  
